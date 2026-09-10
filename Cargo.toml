@@ -1,0 +1,10 @@
+[package]
+name = "ferns-and-rule30-ascii"
+version = "0.1.0"
+edition = "2021"
+
+[package.metadata]
+authors = ["emmatoad-droid"]
+
+[dependencies]
+# no external deps
