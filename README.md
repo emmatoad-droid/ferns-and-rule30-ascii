@@ -4,6 +4,7 @@ ASCII demos in Rust:
 - Barnsley fern (src/bin/barnsley.rs)
 - Rule 30 cellular automaton (src/bin/rule30.rs)
 - Rule 110 cellular automaton (src/bin/rule110.rs)
+- Sierpiński triangle (src/bin/sierpinski.rs)
 
 Build and run (requires Rust/Cargo installed):
 
@@ -23,6 +24,12 @@ Run Rule 110:
 
 ```bash
 cargo run --bin rule110
+```
+
+Run Sierpiński triangle:
+
+```bash
+cargo run --bin sierpinski
 ```
 
 License: MIT (see LICENSE file)
